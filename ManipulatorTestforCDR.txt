@@ -1,0 +1,8 @@
+Input Testing:
+Encoder distance tested for x and y
+Encoder speed distance calculated tested
+
+Output Testing:
+Speed Command for x and y - redo with more data for y axis new gain data needs capturing
+
+
